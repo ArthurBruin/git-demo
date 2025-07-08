@@ -4,4 +4,4 @@ Git GUI Test
 Git four commit
 Git five commit from vim
 Git six
-Git tracks changes 
+Git tracks changes second
