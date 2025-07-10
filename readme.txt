@@ -5,3 +5,4 @@ Git four commit
 Git five commit from vim
 Git six
 Git tracks changes second
+Git checkout test
