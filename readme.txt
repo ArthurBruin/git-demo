@@ -9,3 +9,5 @@ Git checkout test
 Git restore test
 ------------------------------------------------------------
 Git branch creat first commit
+
+vscode git branch dev second commit
